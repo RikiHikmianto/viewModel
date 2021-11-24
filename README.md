@@ -1,3 +1,3 @@
 # viewModel
 
-![2020111915042486056b160737941479007ff0c86008e9](https://user-images.githubusercontent.com/45007881/143224441-abcd315b-8859-45bd-a0e6-9cb40f89c0c8.gif)
+![20201109142645cbdfcc0408da6291d7a954a5591fb24b](https://user-images.githubusercontent.com/45007881/143224592-dd1f4f50-f3e9-42e6-90ac-c3f5f6711969.gif)
